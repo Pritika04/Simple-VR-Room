@@ -1,1 +1,1 @@
-# sp26_cs417_vr_mp0
+# CS417 MP0: Simple VR Room
